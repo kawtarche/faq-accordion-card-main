@@ -1,0 +1,4 @@
+.container-faq{
+    display: flex;
+    flex-direction: row-reverse;
+}
